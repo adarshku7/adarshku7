@@ -1,4 +1,4 @@
-![logo](https://github.com/adarshku7/adarshku7/blob/main/Adarsh%20kumar%20(1).png)
+![logo](https://github.com/adarshku7/adarshku7/blob/main/Adarsh%20kumar%20(2).png)
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A passionate Data Scientist / Software Engineer</h3>
 
